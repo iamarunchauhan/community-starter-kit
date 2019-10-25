@@ -1,10 +1,11 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+* Optimized for GitHub
+* Easily scriptable
 
 ## What it does
 
-FEATURES PLACEHOLDER
+* GitHub Apps to automate and improve your workflow
 
 ## Getting started
 
