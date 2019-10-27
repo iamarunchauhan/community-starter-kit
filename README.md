@@ -6,6 +6,6 @@ Created a simple website using google sites & detailed information about me is a
 * Online training & certificates
 * Profile links
 
-Click to cheeck it out-
+Click to check it out-
 [Arun's Portfolio](https://sites.google.com/view/iamarunchauhan)
 
