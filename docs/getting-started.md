@@ -35,4 +35,4 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+This repository created to understand Github community starter kit, here it's help to create documentation for viewer and in our task bot is guiding us.
