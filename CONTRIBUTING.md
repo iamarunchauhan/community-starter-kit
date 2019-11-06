@@ -16,5 +16,6 @@ There are many ways you can help us make this project better. Every repository i
 - **bug-high-priority**: The :bug: which will of hig priority & need to be solve as soon as possible
 - **bug-low-priority**: :bug: which are of low priority & can be solved later
 - **help-wanted**: Need a help in some part of a code
+- **learn-github**: Label create to learn & explore Github using lab of Github
 
 You can also help by translating documentation and reviewing open pull requests.
